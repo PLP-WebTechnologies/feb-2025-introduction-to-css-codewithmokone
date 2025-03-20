@@ -2,6 +2,7 @@ Body {
     font-family: monospace, sans-serif;
 }
 
+/* Styling the image */
 img {
     width: 600px;
     height: 400px;
@@ -9,12 +10,14 @@ img {
     border-radius: 8px;
 }
 
+/* Styling the h2 element */
 #subheading {
     color: Blue;
     font-family: 'Courier New', sans-serif;
     margin-top: 30px;
 }
 
+/* Styling the p element */
 .csspar {
     padding: 4px;
 }
